@@ -78,26 +78,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nishant Keni"
+  name             : "Amol Singbal"
   avatar           : "profile.png"
-  bio              : "ECE @ Georgia Tech | CS @ UC Berkeley | AI @ Columbia"
+  bio              : "ECE @ Georgia Tech | EXTC @ VJTI"
   location         : 
-  employer         : "Data Science @ Amazon"
+  employer         : "Data Science @ Stanley Black & Decker"
   googlescholar    :
-  email            : "nishant.keni@outlook.edu"
+  email            : "amolsingbal1995@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "NishKeni"
+  facebook         : "amol.singbal"
   foursquare       :
-  github           : "nishkeni"
+  github           : "Amol195"
   google_plus      :
   keybase          :
-  instagram        : "nish_keni"
+  instagram        : "ams0112"
   lastfm           :
-  linkedin         :  "nishant-keni"
+  linkedin         :  "amolsingbal"
   orcid            :
   pinterest        :
   soundcloud       :
@@ -237,7 +237,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
