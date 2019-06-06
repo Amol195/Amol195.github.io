@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nishant Keni"
+title                    : "Amol Singbal"
 title_separator          : "-"
-name                     : &name "Nishant Keni"
+name                     : &name "Amol Singbal"
 description              : &description "personal description"
-url                      : https://nishkeni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://amols.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nishkeni.github.io"
+repository               : "amols.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 future                   : true
