@@ -4,5 +4,5 @@ collection: talks
 type: "Coursera"
 permalink: /talks/f_certi
 venue: "Google Cloud"
-date: September 2018
+date: May 2018
 ---
