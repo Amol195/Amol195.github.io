@@ -12,35 +12,43 @@ redirect_from:
 Education
 ======
 
-* MicroMasters in Artifical Intelligence, Columbia University in the City of New York, NY, 2020 (expected).
-* M.S. in Electrical and Computer Engineering, Georgia Institue of Technology, Atlanta, GA, May 2019.
-* B.Tech. (Institute Gold Medal) in Electronics Engineering, V.J.T.I. Mumbai, May 2017.
+* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA, May 2019.
+* B.Tech. in Electronics and Telecommunications Engineering, V.J.T.I. Mumbai, May 2017.
 
 
 <br> 
 
 Work experience
 ======
+* Fall 2019 : Data Scientist
+  * Stanley Black and Decker
+  * Working on : Data Exploration and Validation to maintain Data Quality.
+  * Supervisor : Dr. Aleksandar Lazarevic (VP, Data and Analytics, Stanley Black and Decker)
+ 
+* Spring 2019 : Graduate Teaching Assistant
+  * College of Computing; CS 7641 Machine Learning
+  * Worked : Grading and providing relevant feedback on assignments
+  * Supervisor : Dr Charles Isbell (Professor at College of Computing, Georgia Tech) 
 
 * Fall 2018: Applied Scientist Intern - Machine Learning
   * Amazon
-  * Duties included: Dynamic Incentivization using Reinforcement Learning
-  * Supervisor: Mr. Arijit Biswas & Mrs. Pooja A. (Sr. Machine Learning Scientist, Amazon)
+  * Project : Estimation of shipping charges through weight recommendations
+  * Supervisor: Mr. Atul Saroop (Manager, Applied Science, Amazon)
   
-* Summer 2018: Visiting Student Researcher
-  * University of California, Berkeley (Computer Science)
-  * Duties included: Research in Adversarial Defenses for Learning Models
-  * Supervisor: Dr. Dawn Song
+* Summer 2018: Computer Vision Intern
+  * Panasonic Automotive Systems of America
+  * Project : Real time monitoring of driver distractions
+  * Supervisor: Dr. Jin Woo Jung (Sr. Software Engineer, Advanced Engineering Group)
 
-* Spring 2018, 2019: Graduate Teaching Assistant
-  * Machine Learning (CS 4641/7641A): Georgia Institute of Technology (College of Computing)
-  * Duties included: Conducting Office Hours, Grading
-  * Supervisor: Dr. Charles Isbell
+* Spring 2017: Research Assistant
+  * Centre of Excellence in Complex and Non-Linear Dynamical Systems(CoE-CNDS), Mumbai
+  * Project : Remote Monitoring of Solar Grid Inverters
+  * Supervisor: Dr. Faruk Kazi (Professor, VJTI)
   
-* Summer 2016: Information Technology Intern
-  * Credit Suisse (Advanced Executional Services)
-  * Duties included: Software Development in Dynamic SQL Query Adapter
-  * Supervisor: Mr. Gaurav Lad (Associate Vice President, Credit Suisse)
+* Summer 2016: Network Management Intern
+  * Tata Teleservices Pvt Ltd
+  * Duty : Management of GSM Mobile Network 
+  * Supervisor: Mr. Richard Pereira 
  
 <br>  
   
@@ -67,15 +75,4 @@ Certifications
   {% endfor %}</ul>
   
 <br> 
-  
-Honors
-======
-
-* Department Rank 1 <i>(Institute Gold Medal)</i> in Electronics Engineering at V.J.T.I. Mumbai: Batch of 2017.
-* Awarded the <i>Best Paper of the Session</i>: International Conference on Global Trends in Signal Processing, Information Computing and Communication, 2016 (IEEE).
-* Secured an All India Rank 695 in J.E.E. Mains - 2013 out of 13,00,000 candidates.
-* Attained a position among the Top 350 (State Top 1%) in India in the National Standard Examination in Astronomy to qualify for the Indian National Astronomy Olympiad (INAO), 2013.
-* Received the <i>Dr.Homi Bhaha Young Scientist Award</i>, Silver Medal (2009).
-* Recepient of Maharashtra State Pravinya & Pradnya Award for Mathematics (2008).
-* Recepient of Maharashtra State Primary & Secondary Scholarships (2004, 2007).
 
