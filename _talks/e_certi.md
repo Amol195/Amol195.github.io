@@ -4,5 +4,5 @@ collection: talks
 type: "Coursera"
 permalink: /talks/e_certi
 venue: "deeplearning.ai"
-date: September 2018
+date: August 2018
 ---
