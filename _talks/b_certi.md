@@ -5,5 +5,5 @@ type: "Coursera"
 permalink: /talks/b_certi
 venue: "deeplearning.ai"
 date: September 2018
-location : "San Fransisco, CA, USA"
+location : "San Francisco, CA, USA"
 ---
