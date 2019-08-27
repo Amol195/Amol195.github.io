@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Fall 2019 : Data Scientist
+* Current : Data Scientist
   * Stanley Black and Decker
   * Working on : Data Exploration and Validation to maintain Data Quality.
   * Supervisor : Dr. Aleksandar Lazarevic (VP, Data and Analytics, Stanley Black and Decker)
