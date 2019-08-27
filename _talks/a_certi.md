@@ -1,9 +1,9 @@
 ---
-title: "Algorithms (Specialization): Divide and Conquer, Sorting and Searching, and Randomized Algorithms"
+title: "Convolutional Neural Networks"
 collection: talks
 type: "Coursera"
-permalink: /talks/o_certif
-venue: "Stanford University"
-date: 2018-12-07
-location: "Palo Alto CA, USA"
+permalink: /talks/a_certi
+venue: "deeplearning.ai"
+date: September 2018
+location: "San Fransisco CA, USA"
 ---
