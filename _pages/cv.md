@@ -24,31 +24,43 @@ Work experience
   * Stanley Black and Decker
   * Working on : Data Exploration and Validation to maintain Data Quality.
   * Supervisor : Dr. Aleksandar Lazarevic (VP, Data and Analytics, Stanley Black and Decker)
+  
+  
  
 * Spring 2019 : Graduate Teaching Assistant
   * College of Computing; CS 7641 Machine Learning
   * Worked : Grading and providing relevant feedback on assignments
   * Supervisor : Dr Charles Isbell (Professor at College of Computing, Georgia Tech) 
+  
+  
 
 * Fall 2018: Applied Scientist Intern - Machine Learning
   * Amazon
   * Project : Estimation of shipping charges through weight recommendations
   * Supervisor: Mr. Atul Saroop (Manager, Applied Science, Amazon)
   
+  
+  
 * Summer 2018: Computer Vision Intern
   * Panasonic Automotive Systems of America
   * Project : Real time monitoring of driver distractions
   * Supervisor: Dr. Jin Woo Jung (Sr. Software Engineer, Advanced Engineering Group)
+  
+  
 
 * Spring 2017: Research Assistant
   * Centre of Excellence in Complex and Non-Linear Dynamical Systems(CoE-CNDS), Mumbai
   * Project : Remote Monitoring of Solar Grid Inverters
   * Supervisor: Dr. Faruk Kazi (Professor, VJTI)
   
+  
+  
 * Summer 2016: Network Management Intern
   * Tata Teleservices Pvt Ltd
   * Duty : Management of GSM Mobile Network 
   * Supervisor: Mr. Richard Pereira 
+  
+  
  
 <br>  
   
@@ -60,6 +72,7 @@ Publications
   
 <br> 
 
+
 Projects
 ======
   <ul>{% for post in site.projects %}
@@ -67,6 +80,7 @@ Projects
   {% endfor %}</ul>
   
 <br> 
+  
   
 Certifications
 ======
