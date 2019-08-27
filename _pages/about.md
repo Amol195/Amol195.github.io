@@ -13,29 +13,31 @@ I am a Data Scientist at [Stanley Black and Decker](https://www.stanleyblackandd
 
 <br>
 
-Research Interests
+Areas of Interest
 ======
 
-My research areas lie in Statistical Learning, Optimization, Causal Inference & Bioinformatics; and I love to think about the Design & Analysis of Algorithms. My prime hobby is ‘Thinking’ and I like to model real-life scenarios to find their solutions through Mathematics (for e.g. The Linear Inverse Problem Theory relates to how Humans perceive each other). I also like to think about the fusion of Machine Learning and Game Theory, as both these model the most supreme agents we live with; the former created by Humans while the later created out of Bio-Science! 
+My areas of interests primarily lie in Machine Learning, Big Data, Statistical Learning. My inclination towards Machine Learning(and now Deep Learning) stems from a keen interest in Mathematics and Statistics and then Signal Processing during my undergraduate studies. I love reading various tech articles in order to keep myself updated in this rapidly changing field. I am mainly focused on getting exposed to applying ML in a set of diverse problems in an industrial setting wherein both research and deployment come into play. 
 
 <br>
 
 Get in Touch
 ======
 
-As a background context, I am <b><i>aggressively</i></b> protective of my time, as I believe all of us should be. I love to wear the hats of both a researcher and a developer. [Here's](http://www.paulgraham.com/makersschedule.html) an interesting perspective on why disruptions are so corrosive to a maker's schedule. If you want to chat with me, please consider e-mailing me first for context, and then using [this](https://calendly.com/nishant-keni) to find a time that works best for us. 
+I do look forward in chatting with you and hearing more you and your interesting work! Do consider emailing me first(as a short introduction about you) after which we could setup a mutually acceptable time to chat! Alternatively, you may also message me on [LinkedIn](https://www.linkedin.com/in/amolsingbal/).
 
-If there's anything you believe I can assist you with, I am looking forward to talking to you!
+Appreciate in taking time out of your schedule to read all of this :)
 
 <br>
 
 News
 ------
 
-* July 2019 - I am joining Amazon.com as a Data Scientist in Advertising Measurement & Optimization!
+* July 2019 - Started as a Data Scientist at Stanley Black and Decker in the Data and Analytics Team
 
-* June 2019 - I received the Secure and Private AI Scholarship by Facebook AI & Udacity.
+* May 2019 - Graduated from Georgia Tech with a Masters in Electrical and Computer Engineering.
 
-* August 2018 - I joined Amazon.in as an Applied Scientist Intern - Machine Learning in the India Machine Learning (IML) Team!
+* August 2018 - Joined Amazon.in as an Applied Scientist Intern in the India Machine Learning(IML) Team!
 
-* May 2018 - I joined Dr. Dawn Song as a Visiting Student Researcher for the Summer at the University of California, Berkeley (EECS, Computer Science)!
+* May 2018 - Started as a Computer Vision Intern at Panasonic Automotive in the Advanced Engineering Group!
+
+* May 2017 - Graduated with my Bachelors in Electronics and Telecommunications Engineering from VJTI, Mumbai
