@@ -23,7 +23,7 @@ My areas of interests primarily lie in Machine Learning, Big Data, Statistical L
 Get in Touch
 ======
 
-I do look forward in chatting with you and hearing more about you and your interesting work! Do consider emailing me first(Just for the some context) after which we could setup a mutually acceptable time to chat! Alternatively, you may also message me on [LinkedIn](https://www.linkedin.com/in/amolsingbal/).
+I do look forward in chatting with you and hearing more about you and your interesting work! Do consider emailing me first(Just for some context) after which we could setup a mutually acceptable time to chat! Alternatively, you may also message me on [LinkedIn](https://www.linkedin.com/in/amolsingbal/).
 
 Appreciate in taking time out of your schedule to read all of this :)
 
