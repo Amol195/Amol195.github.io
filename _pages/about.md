@@ -32,12 +32,12 @@ Appreciate in taking time out of your schedule to read all of this :)
 News
 ------
 
-* July 2019 - Started as a Data Scientist at Stanley Black and Decker in the Data and Analytics Team
+* July 2019 - Started as a Data Scientist at Stanley Black and Decker in the Data and Analytics Team!
 
-* May 2019 - Graduated from Georgia Tech with a Masters in Electrical and Computer Engineering.
+* May 2019 - Graduated from Georgia Tech with a Masters in Electrical and Computer Engineering!
 
 * August 2018 - Joined Amazon.in as an Applied Scientist Intern in the India Machine Learning(IML) Team!
 
 * May 2018 - Started as a Computer Vision Intern at Panasonic Automotive in the Advanced Engineering Group!
 
-* May 2017 - Graduated with my Bachelors in Electronics and Telecommunications Engineering from VJTI, Mumbai
+* May 2017 - Graduated with my Bachelors in Electronics and Telecommunications Engineering from VJTI, Mumbai!
