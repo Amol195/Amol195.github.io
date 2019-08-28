@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+Download pdf [**here**](http://amol195.github.io/files/Amol_Resume_new.pdf)
+
+<!----
 {% include base_path %}
 
 Education
@@ -87,3 +90,4 @@ Certifications
   
 <br> 
 
+--->
