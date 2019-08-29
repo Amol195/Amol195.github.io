@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist at [Stanley Black and Decker](https://www.stanleyblackanddecker.com/) in the Data and Analytics Team. Recently, I graduated with a Masters in Electrical and Computer Engineering from [Georgia Institute of Technology, Atlanta](https://www.gatech.edu/), wherein my specialization was in Signal Processing, Machine Learning. Before that, I did my Bachelors in Electronics and Telecommunications Engineering from [VJTI, Mumbai](https://www.vjti.ac.in/), during which I was involved in working for [Centre of Excellence in Complex and Non-Linear Dynamical Systems, VJTI](https://www.vjti.ac.in/images/coe-cnds/project/index.html). 
+I am a Data Scientist at [Stanley Black and Decker](https://www.stanleyblackanddecker.com/) in the Data and Analytics Team. Recently, I graduated with a Masters in Electrical and Computer Engineering from [Georgia Institute of Technology, Atlanta](https://www.gatech.edu/), wherein my specialization was in Signal Processing, Machine Learning. Before that, I did my Bachelors of Technology in Electronics and Telecommunications from [VJTI, Mumbai](https://www.vjti.ac.in/), during which I was involved in working for [Centre of Excellence in Complex and Non-Linear Dynamical Systems, VJTI](https://www.vjti.ac.in/images/coe-cnds/project/index.html). 
 
 
 <br>
