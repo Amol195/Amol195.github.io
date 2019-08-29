@@ -16,7 +16,7 @@ I am a Data Scientist at [Stanley Black and Decker](https://www.stanleyblackandd
 Areas of Interest
 ======
 
-My areas of interests primarily lie in Machine Learning, Big Data, Statistical Learning. My inclination towards Machine Learning(and now Deep Learning) stems from a keen interest in Mathematics and Statistics and then Signal Processing during my undergraduate studies. I love reading various tech articles in order to keep myself updated in this rapidly changing field. I am mainly focused on getting exposed to applying ML in a set of diverse problems in an industrial setting wherein both research and deployment come into play. 
+My areas of interests primarily lie in Machine Learning, Big Data, Statistical Learning. My inclination towards Machine Learning stems from a keen interest in Mathematics and Statistics and then Signal Processing during my undergraduate studies. I love reading various tech articles in order to keep myself updated in this rapidly changing field. I am mainly focused on getting exposed to applying ML in a set of diverse problems in an industrial setting wherein both research and deployment come into play. 
 
 <br>
 
