@@ -2,7 +2,7 @@
 permalink: /projects/Fanbone
 title: "Fanbone Detection using Artificial Color Contrast"
 collection: projects
-venue: "Georgia Tech"
+venue: "Georgia Tech, ME 6406 : Machine Vision"
 period: "November, 2017"
 ---
 
