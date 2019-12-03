@@ -2,7 +2,7 @@
 permalink: /projects/EmotionRecog
 title: "Emotion Recognition using Speech"
 collection: projects
-venue: "Georgia Tech"
+venue: "Georgia Tech, ECE 6255 : Digital Signal Processing for Speech Signals"
 period: "March - April, 2018"
 ---
 
