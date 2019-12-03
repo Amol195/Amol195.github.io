@@ -2,7 +2,7 @@
 permalink: /projects/DiabetesClassify
 title: "Diabetes Type Classification"
 collection: projects
-venue: "Georgia Tech"
+venue: "Georgia Tech, CSE 6250 : Big Data for Health"
 period: "January - March, 2018"
 ---
 
