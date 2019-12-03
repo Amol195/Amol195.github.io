@@ -2,7 +2,7 @@
 permalink: /projects/Inverters
 title: "Remote Monitoring of Solar Grid Inverters"
 collection: projects
-venue: "VJTI, Bachelor Capstone"
+venue: "VJTI, Bachelors Capstone Project"
 period: "November 2016 - March 2017"
 ---
 
