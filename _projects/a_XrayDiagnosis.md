@@ -2,7 +2,7 @@
 permalink: /projects/XrayDiagnosis
 title: "Chest X-Ray Disease Diagnosis"
 collection: projects
-venue: "Georgia Tech"
+venue: "Georgia Tech, CSE 6250 : Big Data for Health"
 period: "March - April, 2018"
 ---
 
