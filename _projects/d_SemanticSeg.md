@@ -2,7 +2,7 @@
 permalink: /projects/SemanticSeg
 title: "Semantic Segmentation of Nuclei"
 collection: projects
-venue: "Georgia Tech"
+venue: "Georgia Tech, ECE 6254 : Statistical Machine Learning"
 period: "February - April, 2018"
 ---
 
