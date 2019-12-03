@@ -2,7 +2,7 @@
 permalink: /projects/Reflection
 title: "Reflection Removal from Images"
 collection: projects
-venue: "Georgia Tech"
+venue: "Georgia Tech, ECE 6258 : Digital Image Processing"
 period: "September - December, 2017"
 ---
 
