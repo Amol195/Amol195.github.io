@@ -2,7 +2,7 @@
 permalink: /projects/MortalityPred
 title: "Mortality Prediction using Raw Clinical Data"
 collection: projects
-venue: "Georgia Tech"
+venue: "Georgia Tech, CSE 6250 : Big Data for Health"
 period: "January - February, 2018"
 ---
 
