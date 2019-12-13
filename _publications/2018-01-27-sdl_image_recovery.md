@@ -1,5 +1,5 @@
 ---
-title: "Reconstruction of Compressively Sensed Images using Convex Tikhonov Sparse Dictionary Learning
+title: "Reconstruction of Compressively Sensed Images using Regularized Sparse Dictionary Learning
 and Adaptive Spectral Filtering"
 collection: publications
 permalink: /publication/2018-01-27-sdl_image_recovery
