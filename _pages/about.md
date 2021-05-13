@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Data Scientist at [Stanley Black & Decker](https://www.stanleyblackanddecker.com/) for the Advanced Data Analytics (ADA) Team. My current areas of work are around Customer/Marketing, Pricing and Supply Chain Analytics. In 2019, I graduated with a Masters in Electrical & Computer Engineering from [Georgia Tech, Atlanta](https://www.gatech.edu/) wherein my focus was mainly on Machine Learning, Statistics and Signal Processing. I enjoy playing chess, reading books mainly during my free time :) 
+I am currently working as a Data Scientist at [Stanley Black & Decker](https://www.stanleyblackanddecker.com/) for the Advanced Data Analytics (ADA) Team. My current areas of work are around Customer/Marketing, Pricing and Supply Chain Analytics. In 2019, I graduated with a Masters in Electrical & Computer Engineering from [Georgia Tech, Atlanta](https://www.gatech.edu/) wherein my focus was mainly on Machine Learning, Statistics and Signal Processing. Prior to that, I completed my Bachelor's Degree at [VJTI, Mumbai](https://www.vjti.ac.in/) in Electronics & Telecommunications Engineering, during which I was involved in working for [CoE-CNDS](https://www.vjti.ac.in/images/coe-cnds/project/index.html) I enjoy playing chess, reading books and cooking mainly during my free time.
 
 
 
