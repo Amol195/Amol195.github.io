@@ -16,7 +16,7 @@ Education
 ======
 
 * M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA, May 2019.
-* B.Tech. in Electronics and Telecommunications Engineering, V.J.T.I. Mumbai, May 2017.
+* B.Tech. in Electronics and Telecommunications Engineering, V.J.T.I. Mumbai, May 2017
 
 <br> 
 
