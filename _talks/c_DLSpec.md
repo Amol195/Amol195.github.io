@@ -1,9 +1,8 @@
 ---
 title: "Deep Learning Specialization"
 collection: talks
-type: "Coursera"
+type: "Coursera : deeplearning.ai"
 permalink: /talks/c_DLSpec
-venue: "deeplearning.ai"
 date: September 2018
 location : Online
 ---
