@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Data Scientist at [Stanley Black & Decker](https://www.stanleyblackanddecker.com/) for the Advanced Data Analytics (ADA) Team. My current areas of work are around Customer/Marketing, Pricing and Supply Chain Analytics. In 2019, I graduated with a Masters in Electrical & Computer Engineering from [Georgia Tech, Atlanta](https://www.gatech.edu/) wherein my focus was mainly on Machine Learning, Statistics and Signal Processing. Prior to that, I completed my Bachelor's Degree at [VJTI, Mumbai](https://www.vjti.ac.in/) in Electronics & Telecommunications Engineering, during which I was involved in working for [CoE-CNDS](https://www.vjti.ac.in/images/coe-cnds/project/index.html). I enjoy playing chess, reading books and cooking mainly during my free time. Recently, I have developed an interest into investing/finance and astronomy (No commonalities involved 😅), so actively reading more about them
-
+I am currently working as a Data Scientist at [Stanley Black & Decker](https://www.stanleyblackanddecker.com/) in the Advanced Data Analytics (ADA) Team, and pursuing certifications mainly on various Natural Language Processing (NLP) & Statistical Learning.  In 2019, I graduated with a Masters in Electrical & Computer Engineering from [Georgia Tech, Atlanta](https://www.gatech.edu/) wherein my focus was mainly on Machine Learning, Statistics and Signal Processing. My Bachelor's Degree was in Electronics & Telecommunications at [VJTI, Mumbai](https://www.vjti.ac.in/), during which I was involved in various research projects under [Dr. Faruk Kazi](https://scholar.google.co.in/citations?user=oa7QCAgAAAAJ&hl=en). 
 
 
 <br>
@@ -17,28 +16,25 @@ I am currently working as a Data Scientist at [Stanley Black & Decker](https://w
 Areas of Interest
 ======
 
-I love handling data! Hence, I enjoy experimenting with new datasets to solve problems using different techniques and at the same time, increase my domain knowledge in the field. My interest in Data Science stems from a keen interest in Statistics during my undergraduate studies. 
+As a Data Scientist, my work areas revolve around Pricing, Marketing & Customer Analytics. I enjoy working on initiatives which have a visible impact on customers, in addition to constantly trying out new backend frameworks to deliver data-driven insights. My passion for Data Science stems mainly from statistics and also that I love handling big data! Most of the time you would find me exploring & testing new learning frameworks in different business areas, thus improving my business domain knowledge as well as the technical stack.
+
 
 <br>
 
 Get in Touch
 ======
 
-I do look forward in chatting with you and hearing more about you and your interesting work! Do consider emailing me first(Just for some context) after which we could setup a mutually acceptable time to chat! Alternatively, you may also message me on [LinkedIn](https://www.linkedin.com/in/amolsingbal/).
-
-Appreciate in taking time out of your schedule to read all of this :)
+I do look forward to talk with you and explore any potential collaboration in competitions ([Kaggle](https://www.kaggle.com/) for example). You can message me on [LinkedIn](https://www.linkedin.com/in/amolsingbal/), where we can discuss more about the same. 
 
 <br>
 
-News
-------
+Hobbies
+======
 
-* December 2019 - Presenting my research in Dictionary Learning at 21st IEEE International Symnposium on Multimedia (ISM), 2019 at San Diego, CA
+You would find me mainly reading during my free time! I have developed some interest in physics(mainly relativity and some astrophysics) to understand more about our universe. Here's a [fun page](https://neal.fun/size-of-space/) which got me interested, along with Stephen Hawking's famous book ([A Brief History of Time](https://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168)). Other than physics, I keep myself updated in reading about finance, world politics and tech news. I also hold a Black Belt in [Karate](https://en.wikipedia.org/wiki/Shotokan), which I practice for fun at times :)
 
-* July 2019 - Started as a Data Scientist at Stanley Black and Decker in the Data and Analytics Team!
 
-* May 2019 - Graduated from Georgia Tech with a Masters in Electrical and Computer Engineering!
 
-* August 2018 - Joined Amazon.in as an Applied Scientist Intern in the India Machine Learning(IML) Team!
 
-* May 2018 - Started as a Computer Vision Intern at Panasonic Automotive in the Advanced Engineering Group!
+
+
