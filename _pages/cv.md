@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download pdf [**here**](http://amol195.github.io/files/AmolSingbal_Resume.pdf)
+Download pdf [**here**](http://amol195.github.io/files/Resume_AmolSingbal.pdf)
 
 <!----
 {% include base_path %}
